@@ -13,5 +13,10 @@ public class BasicP {
 	{
 		System.out.println("This is m2");
 	}
+	public void m3()
+	{
+
+		System.out.println("This is m3");
+	}
 	
 }
