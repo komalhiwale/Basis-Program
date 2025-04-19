@@ -21,7 +21,7 @@ public class BasicP {
 	public void m4()
 	{
 
-		System.out.println("This is m4");
+		System.out.println("This is m4 method");
 	}
 	
 }
